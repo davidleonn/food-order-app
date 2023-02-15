@@ -1,6 +1,6 @@
 import React from "react";
 
-import styles from "./HeaderCartButton.module.css";
+import styles from "../styles/HeaderCartButton.module.css";
 import CartIcon from "../../../Cart/CartIcon";
 
 function HeaderCartButton(props) {
